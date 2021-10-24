@@ -1,6 +1,6 @@
 # NLW Heat 
 ![nlw-web](assets/Capturar-web.JPG)
-Durante essa semana participei da NLW Heat, evento promovido pela Rocketseat. Nessa edição foi desenvolvida uma aplicação que permite com que as pessoas se conectem a plataforma através da sua conta no GitHub e que, quando conectadas, possam compartilhar suas expectativas sobre o DoWhile.
+Durante essa semana participei da NLW Heat, evento promovido pela Rocketseat. Nessa edição foi desenvolvido um projeto que permite com que as pessoas se conectem a plataforma através da sua conta no GitHub e que, quando conectadas, possam compartilhar suas expectativas sobre o DoWhile.
 
 ## 🚀 Stage 01
 back-end foi desenvolvido com as seguintes tecnologias:
