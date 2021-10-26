@@ -25,7 +25,6 @@ Front-end web desenvolvido com as seguintes tecnologias:
 - TypeScript
 - Vite 
 - React
-- Expo
 - Socket.Io 
 
 ### Como executar
